@@ -1,0 +1,15 @@
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\bin\Debug\net10.0\techfitCSV.exe
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\bin\Debug\net10.0\techfitCSV.deps.json
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\bin\Debug\net10.0\techfitCSV.runtimeconfig.json
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\bin\Debug\net10.0\techfitCSV.dll
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\bin\Debug\net10.0\techfitCSV.pdb
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\techfitCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\techfitCSV.AssemblyInfoInputs.cache
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\techfitCSV.AssemblyInfo.cs
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\techfitCSV.csproj.CoreCompileInputs.cache
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\techfitCSV.dll
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\refint\techfitCSV.dll
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\techfitCSV.pdb
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\techfitCSV.genruntimeconfig.cache
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\ref\techfitCSV.dll
+C:\Users\fonse\OneDrive\Desktop\Facul\2º Semestre\aulaC#\TP's\techfitCSV\techfitCSV\obj\Debug\net10.0\techfitCSV.csproj.Up2Date

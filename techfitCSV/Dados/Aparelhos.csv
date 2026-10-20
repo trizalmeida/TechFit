@@ -1,0 +1,9 @@
+﻿nome_aparelho;numero_serie;data_instalacao;status;id_marca;id_representante
+Esteira ergométrica;SER-700001;2025-10-10;Em uso;1;1
+Bicicleta vertical;SER-700002;2025-10-12;Em uso;2;2
+Leg press;SER-700003;2025-11-02;Em uso;3;3
+Supino máquina;SER-700004;2025-11-15;Manutenção;4;4
+Elíptico;SER-700005;2025-12-01;Em uso;5;5
+Remo indoor;SER-700006;2026-01-08;Em uso;1;1
+Cadeira extensora;SER-700007;2026-01-20;Em uso;3;3
+Puxador alto;SER-700008;2026-02-11;Fora de uso;4;4

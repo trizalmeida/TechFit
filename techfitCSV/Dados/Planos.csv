@@ -1,0 +1,9 @@
+﻿nome_plano;descricao;valor_mensal;duracao_meses;ativo
+Básico;Musculação em horário comercial;89.90;1;true
+Completo Mensal;Acesso às modalidades;129.90;1;true
+Trimestral;Plano de três meses;119.90;3;true
+Semestral;Plano de seis meses;109.90;6;true
+Anual;Plano de doze meses;99.90;12;true
+Estudante;Desconto mediante comprovação;79.90;1;true
+Personal;Acompanhamento personalizado;299.90;1;true
+Experimental;Plano promocional;39.90;1;false

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fonse\\OneDrive\\Desktop\\Facul\\2\u00BA Semestre\\aulaC#\\TP\u0027s\\techfitCSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CDD625-0852-5A91-EC49-50E5F8B7BFF8}|techfitCSV\\techfitCSV.csproj|c:\\users\\fonse\\onedrive\\desktop\\facul\\2\u00BA semestre\\aulac#\\tp\u0027s\\techfitcsv\\techfitcsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CDD625-0852-5A91-EC49-50E5F8B7BFF8}|techfitCSV\\techfitCSV.csproj|solutionrelative:techfitcsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CDD625-0852-5A91-EC49-50E5F8B7BFF8}|techfitCSV\\techfitCSV.csproj|c:\\users\\fonse\\onedrive\\desktop\\facul\\2\u00BA semestre\\aulac#\\tp\u0027s\\techfitcsv\\techfitcsv\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CDD625-0852-5A91-EC49-50E5F8B7BFF8}|techfitCSV\\techfitCSV.csproj|solutionrelative:techfitcsv\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CDD625-0852-5A91-EC49-50E5F8B7BFF8}|techfitCSV\\techfitCSV.csproj|c:\\users\\fonse\\onedrive\\desktop\\facul\\2\u00BA semestre\\aulac#\\tp\u0027s\\techfitcsv\\techfitcsv\\clientecsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CDD625-0852-5A91-EC49-50E5F8B7BFF8}|techfitCSV\\techfitCSV.csproj|solutionrelative:techfitcsv\\clientecsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CDD625-0852-5A91-EC49-50E5F8B7BFF8}|techfitCSV\\techfitCSV.csproj|c:\\users\\fonse\\onedrive\\desktop\\facul\\2\u00BA semestre\\aulac#\\tp\u0027s\\techfitcsv\\techfitcsv\\csvmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5CDD625-0852-5A91-EC49-50E5F8B7BFF8}|techfitCSV\\techfitCSV.csproj|solutionrelative:techfitcsv\\csvmenager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CsvMenager.cs",
+              "DocumentMoniker": "C:\\Users\\fonse\\OneDrive\\Desktop\\Facul\\2\u00BA Semestre\\aulaC#\\TP\u0027s\\techfitCSV\\techfitCSV\\CsvMenager.cs",
+              "RelativeDocumentMoniker": "techfitCSV\\CsvMenager.cs",
+              "ToolTip": "C:\\Users\\fonse\\OneDrive\\Desktop\\Facul\\2\u00BA Semestre\\aulaC#\\TP\u0027s\\techfitCSV\\techfitCSV\\CsvMenager.cs",
+              "RelativeToolTip": "techfitCSV\\CsvMenager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T23:32:27.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteCSV.cs",
+              "DocumentMoniker": "C:\\Users\\fonse\\OneDrive\\Desktop\\Facul\\2\u00BA Semestre\\aulaC#\\TP\u0027s\\techfitCSV\\techfitCSV\\ClienteCSV.cs",
+              "RelativeDocumentMoniker": "techfitCSV\\ClienteCSV.cs",
+              "ToolTip": "C:\\Users\\fonse\\OneDrive\\Desktop\\Facul\\2\u00BA Semestre\\aulaC#\\TP\u0027s\\techfitCSV\\techfitCSV\\ClienteCSV.cs",
+              "RelativeToolTip": "techfitCSV\\ClienteCSV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T23:00:01.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\fonse\\OneDrive\\Desktop\\Facul\\2\u00BA Semestre\\aulaC#\\TP\u0027s\\techfitCSV\\techfitCSV\\Cliente.cs",
+              "RelativeDocumentMoniker": "techfitCSV\\Cliente.cs",
+              "ToolTip": "C:\\Users\\fonse\\OneDrive\\Desktop\\Facul\\2\u00BA Semestre\\aulaC#\\TP\u0027s\\techfitCSV\\techfitCSV\\Cliente.cs",
+              "RelativeToolTip": "techfitCSV\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T22:57:45.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fonse\\OneDrive\\Desktop\\Facul\\2\u00BA Semestre\\aulaC#\\TP\u0027s\\techfitCSV\\techfitCSV\\Program.cs",
+              "RelativeDocumentMoniker": "techfitCSV\\Program.cs",
+              "ToolTip": "C:\\Users\\fonse\\OneDrive\\Desktop\\Facul\\2\u00BA Semestre\\aulaC#\\TP\u0027s\\techfitCSV\\techfitCSV\\Program.cs",
+              "RelativeToolTip": "techfitCSV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T22:56:45.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿nome;cpf;telefone;email;data_nascimento;data_cadastro;status
+Mariana Oliveira;20000000001;31992220001;mariana.oliveira@example.com;1998-03-14;2026-01-05;ativo
+Pedro Henrique;20000000002;31992220002;pedro.henrique@example.com;1994-07-22;2026-01-08;ativo
+Larissa Santos;20000000003;31992220003;larissa.santos@example.com;2001-11-02;2026-01-15;ativo
+João Victor;20000000004;31992220004;joao.victor@example.com;1989-05-19;2026-01-20;ativo
+Isabela Mendes;20000000005;31992220005;isabela.mendes@example.com;1996-09-07;2026-02-01;ativo
+Rafael Carvalho;20000000006;31992220006;rafael.carvalho@example.com;1992-12-25;2026-02-10;inativo
+Beatriz Freitas;20000000007;31992220007;beatriz.freitas@example.com;2000-02-16;2026-02-15;ativo
+Lucas Azevedo;20000000008;31992220008;lucas.azevedo@example.com;1987-06-30;2026-03-02;ativo
+Silvestre Estalone;123456789;31912345678;silvestre@estalone.com;05/05/2005;06/06/2006;ativo
